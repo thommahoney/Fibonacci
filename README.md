@@ -20,3 +20,9 @@ Usage
 ### Ruby
 
     ruby fibonacci.rb <number> [number...]
+
+### Java
+
+    javac Fibonacci.java
+    java Fibonacci <number> [number...]
+
